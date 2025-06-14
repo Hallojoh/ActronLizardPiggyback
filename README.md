@@ -21,11 +21,12 @@ This repository contains a KiCad schematic symbol and footprint designed to make
 
 ## Usage
 
-1. Add the `.kicad_sym` and `.kicad_mod` files to your project's KiCad library paths.
-2. Use the symbol in your schematic and connect it as needed.
-3. Place the **Lizard Piggyback** footprint in your layout.
-4. Create additional cutouts for USB or SD card in your piggyback board for better accessibility
-5. Design your piggyback board.
+1. Add the `.kicad_sym` file to your project's KiCad library paths.
+2. Create new footprintlib and import `.kicad_mod` via footprinteditor.
+3. Use the symbol in your schematic and connect it as needed.
+4. Place the **Lizard Piggyback** footprint in your layout.
+5. Create additional cutouts for USB or SD card in your piggyback board for better accessibility
+6. Design your piggyback board.
 
 This enables fast development of plug-on modules for your Lizard-based systems.
 2x FTSH-113-01-L-DV are recommended.
