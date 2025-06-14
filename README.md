@@ -33,11 +33,10 @@ This enables fast development of plug-on modules for your Lizard-based systems.
 
 ## Preview
 
-## Board Top View
-![Top View](images/TOP.jpeg)
-
-## Board Bottom View
-![Bottom View](images/BOT.jpeg)
+# Board Top View
+![Top View](TOP.jpeg)
+# Board Bottom View
+![Bottom View](BOT.jpeg)
 
 ## License
 
