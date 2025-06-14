@@ -16,8 +16,8 @@ This repository contains a KiCad schematic symbol and footprint designed to make
 
 ## Contents
 
-- `Lizard_Piggyback.kicad_sym` – Schematic symbol
-- `Lizard_Piggyback.kicad_mod` – Footprint with cutouts and mount points
+- `Actron_Lizard.kicad_sym` – Schematic symbol
+- `LizardBoardPiggyback.kicad_mod` – Footprint with cutouts and mount points
 
 ## Usage
 
