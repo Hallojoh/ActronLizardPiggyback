@@ -12,7 +12,6 @@ This repository contains a KiCad schematic symbol and footprint designed to make
   - Clearly labeled **pin positions**
   - Precisely placed **mounting holes**
 - Matching **schematic symbol** for quick integration
-- Designed for KiCad 6.0+  
 - Ideal for rapid prototyping and extension boards
 
 ## Contents
